@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" width="1000" height="560" role="img" aria-label="UltraMatrix planned architecture as a holographic system map: a Python AI/ML layer in violet feeding a central UltraMatrix core, a React and Next.js frontend layer in blue, a Node.js and Express backend layer in green, and TypeScript as the shared language in amber.">
+<style>@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.tw{animation:tw 4.6s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.18}50%{opacity:.9}}
+.ar{animation:sp 44s linear infinite;transform-origin:500px 268px;transform-box:view-box}
+.ar2{animation:sp 66s linear infinite reverse;transform-origin:500px 268px;transform-box:view-box}
+@keyframes sp{to{transform:rotate(360deg)}}
+.p{offset-rotate:0deg;animation:flow 4s linear infinite}
+@keyframes flow{0%{offset-distance:0%;opacity:0}10%{opacity:1}90%{opacity:1}100%{offset-distance:100%;opacity:0}}
+.hz{animation:hz 3.8s ease-in-out infinite}
+@keyframes hz{0%,100%{opacity:.6}50%{opacity:1}}
+</style>
+<defs>
+<radialGradient id="ha" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.3"/><stop offset="60%" stop-color="#8B5CF6" stop-opacity="0.066"/><stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<radialGradient id="hb" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#34D399" stop-opacity="0.18"/><stop offset="60%" stop-color="#34D399" stop-opacity="0.040"/><stop offset="100%" stop-color="#34D399" stop-opacity="0"/></radialGradient>
+<radialGradient id="hc" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#38BDF8" stop-opacity="0.24"/><stop offset="60%" stop-color="#38BDF8" stop-opacity="0.053"/><stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+<filter id="hg" x="-120%" y="-120%" width="340%" height="340%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<radialGradient id="acore" cx="36%" cy="30%" r="74%">
+  <stop offset="0%" stop-color="#FFFFFF"/><stop offset="30%" stop-color="#A78BFA"/>
+  <stop offset="70%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#2E1065"/>
+</radialGradient>
+</defs>
+<rect width="1000" height="560" fill="#02030A"/>
+<ellipse cx="500" cy="120" rx="400" ry="230" fill="url(#ha)"/>
+<ellipse cx="840" cy="470" rx="330" ry="200" fill="url(#hb)"/>
+<ellipse cx="160" cy="470" rx="330" ry="200" fill="url(#hc)"/>
+<g><circle class="tw" cx="617.1" cy="498.5" r="0.9" fill="#F8FAFC" opacity="0.6" style="animation-duration:4.38s;animation-delay:-3.59s"/>
+<circle class="tw" cx="733.8" cy="407.7" r="1.6" fill="#F8FAFC" opacity="0.9" style="animation-duration:6.14s;animation-delay:-4.89s"/>
+<circle class="tw" cx="746.8" cy="146.2" r="1.3" fill="#F8FAFC" opacity="0.29" style="animation-duration:2.59s;animation-delay:-1.15s"/>
+<circle class="tw" cx="228.8" cy="77.4" r="1.1" fill="#C7D2FE" opacity="0.79" style="animation-duration:5.89s;animation-delay:-2.56s"/>
+<circle class="tw" cx="982.0" cy="30.8" r="0.8" fill="#C7D2FE" opacity="0.36" style="animation-duration:5.62s;animation-delay:-2.77s"/>
+<circle class="tw" cx="439.4" cy="138.4" r="1.6" fill="#C7D2FE" opacity="0.36" style="animation-duration:2.61s;animation-delay:-3.23s"/>
+<circle class="tw" cx="231.1" cy="192.8" r="1.6" fill="#BFDBFE" opacity="0.41" style="animation-duration:2.99s;animation-delay:-0.16s"/>
+<circle class="tw" cx="95.5" cy="519.3" r="1.6" fill="#F8FAFC" opacity="0.58" style="animation-duration:4.03s;animation-delay:-1.64s"/>
+<circle class="tw" cx="56.0" cy="233.5" r="1.6" fill="#BFDBFE" opacity="0.9" style="animation-duration:3.22s;animation-delay:-2.68s"/>
+<circle class="tw" cx="365.4" cy="107.0" r="0.7" fill="#F8FAFC" opacity="0.62" style="animation-duration:6.24s;animation-delay:-0.87s"/>
+<circle class="tw" cx="603.2" cy="54.1" r="1.3" fill="#F8FAFC" opacity="0.55" style="animation-duration:4.0s;animation-delay:-0.39s"/>
+<circle class="tw" cx="922.7" cy="223.9" r="1.6" fill="#F8FAFC" opacity="0.57" style="animation-duration:3.37s;animation-delay:-1.56s"/>
+<circle class="tw" cx="767.6" cy="484.7" r="0.9" fill="#FBCFE8" opacity="0.59" style="animation-duration:3.34s;animation-delay:-4.18s"/>
+<circle class="tw" cx="332.1" cy="426.0" r="0.8" fill="#F8FAFC" opacity="0.92" style="animation-duration:3.72s;animation-delay:-2.05s"/>
+<circle class="tw" cx="949.7" cy="6.5" r="1.1" fill="#F8FAFC" opacity="0.31" style="animation-duration:4.99s;animation-delay:-3.89s"/>
+<circle class="tw" cx="260.3" cy="388.5" r="0.8" fill="#BFDBFE" opacity="0.65" style="animation-duration:4.34s;animation-delay:-4.06s"/>
+<circle class="tw" cx="334.1" cy="543.2" r="0.7" fill="#F8FAFC" opacity="0.82" style="animation-duration:6.13s;animation-delay:-1.73s"/>
+<circle class="tw" cx="642.7" cy="212.1" r="1.6" fill="#FBCFE8" opacity="0.84" style="animation-duration:5.49s;animation-delay:-2.16s"/>
+<circle class="tw" cx="462.2" cy="81.8" r="1.3" fill="#F8FAFC" opacity="0.7" style="animation-duration:5.1s;animation-delay:-1.09s"/>
+<circle class="tw" cx="53.3" cy="147.1" r="1.1" fill="#F8FAFC" opacity="0.78" style="animation-duration:4.46s;animation-delay:-4.94s"/>
+<circle class="tw" cx="336.8" cy="45.0" r="0.9" fill="#F8FAFC" opacity="0.74" style="animation-duration:4.81s;animation-delay:-3.25s"/>
+<circle class="tw" cx="982.9" cy="291.9" r="1.1" fill="#C7D2FE" opacity="0.79" style="animation-duration:5.42s;animation-delay:-0.16s"/>
+<circle class="tw" cx="742.6" cy="72.7" r="1.1" fill="#F8FAFC" opacity="0.32" style="animation-duration:5.59s;animation-delay:-3.33s"/>
+<circle class="tw" cx="914.7" cy="326.2" r="0.6" fill="#BFDBFE" opacity="0.54" style="animation-duration:6.17s;animation-delay:-1.08s"/>
+<circle class="tw" cx="542.0" cy="32.7" r="0.8" fill="#F8FAFC" opacity="0.45" style="animation-duration:2.96s;animation-delay:-2.72s"/>
+<circle class="tw" cx="208.6" cy="67.5" r="0.9" fill="#BFDBFE" opacity="0.41" style="animation-duration:4.07s;animation-delay:-0.21s"/>
+<circle class="tw" cx="891.7" cy="210.0" r="0.7" fill="#BFDBFE" opacity="0.4" style="animation-duration:5.01s;animation-delay:-2.27s"/>
+<circle class="tw" cx="749.3" cy="253.0" r="0.9" fill="#F8FAFC" opacity="0.34" style="animation-duration:3.39s;animation-delay:-3.23s"/>
+<circle class="tw" cx="692.3" cy="272.0" r="0.7" fill="#F8FAFC" opacity="0.37" style="animation-duration:3.55s;animation-delay:-0.39s"/>
+<circle class="tw" cx="584.0" cy="487.6" r="0.9" fill="#BFDBFE" opacity="0.9" style="animation-duration:2.69s;animation-delay:-0.47s"/>
+<circle class="tw" cx="62.2" cy="297.2" r="0.8" fill="#F8FAFC" opacity="0.26" style="animation-duration:4.14s;animation-delay:-1.98s"/>
+<circle class="tw" cx="758.6" cy="367.8" r="0.6" fill="#FBCFE8" opacity="0.71" style="animation-duration:5.93s;animation-delay:-3.77s"/>
+<circle class="tw" cx="277.7" cy="199.8" r="1.1" fill="#F8FAFC" opacity="0.89" style="animation-duration:5.67s;animation-delay:-4.62s"/>
+<circle class="tw" cx="649.4" cy="57.6" r="0.8" fill="#F8FAFC" opacity="0.46" style="animation-duration:4.5s;animation-delay:-3.19s"/>
+<circle class="tw" cx="19.6" cy="143.0" r="1.1" fill="#C7D2FE" opacity="0.36" style="animation-duration:4.36s;animation-delay:-4.71s"/>
+<circle class="tw" cx="613.7" cy="518.4" r="1.3" fill="#F8FAFC" opacity="0.9" style="animation-duration:4.01s;animation-delay:-3.31s"/>
+<circle class="tw" cx="988.7" cy="336.9" r="0.6" fill="#C7D2FE" opacity="0.61" style="animation-duration:5.0s;animation-delay:-0.96s"/>
+<circle class="tw" cx="706.4" cy="429.0" r="0.7" fill="#F8FAFC" opacity="0.3" style="animation-duration:3.87s;animation-delay:-4.9s"/>
+<circle class="tw" cx="494.9" cy="98.3" r="0.8" fill="#F8FAFC" opacity="0.87" style="animation-duration:2.61s;animation-delay:-2.43s"/>
+<circle class="tw" cx="359.2" cy="496.3" r="0.6" fill="#F8FAFC" opacity="0.31" style="animation-duration:5.63s;animation-delay:-0.51s"/>
+<circle class="tw" cx="898.9" cy="509.9" r="1.1" fill="#F8FAFC" opacity="0.65" style="animation-duration:5.73s;animation-delay:-4.89s"/>
+<circle class="tw" cx="131.2" cy="25.6" r="1.3" fill="#FBCFE8" opacity="0.51" style="animation-duration:3.31s;animation-delay:-4.46s"/>
+<circle class="tw" cx="7.0" cy="510.9" r="0.6" fill="#BFDBFE" opacity="0.34" style="animation-duration:4.91s;animation-delay:-4.57s"/>
+<circle class="tw" cx="367.7" cy="320.0" r="1.6" fill="#FBCFE8" opacity="0.84" style="animation-duration:5.53s;animation-delay:-2.45s"/>
+<circle class="tw" cx="315.1" cy="388.3" r="0.8" fill="#F8FAFC" opacity="0.93" style="animation-duration:2.53s;animation-delay:-4.03s"/>
+<circle class="tw" cx="624.7" cy="190.7" r="0.6" fill="#BFDBFE" opacity="0.9" style="animation-duration:3.13s;animation-delay:-2.87s"/>
+<circle class="tw" cx="168.3" cy="167.4" r="0.7" fill="#C7D2FE" opacity="0.87" style="animation-duration:5.17s;animation-delay:-2.03s"/>
+<circle class="tw" cx="847.8" cy="493.9" r="0.7" fill="#FBCFE8" opacity="0.58" style="animation-duration:2.83s;animation-delay:-4.2s"/>
+<circle class="tw" cx="116.3" cy="507.1" r="0.9" fill="#F8FAFC" opacity="0.56" style="animation-duration:4.63s;animation-delay:-3.04s"/>
+<circle class="tw" cx="743.6" cy="192.5" r="0.9" fill="#FBCFE8" opacity="0.32" style="animation-duration:4.46s;animation-delay:-0.69s"/>
+<circle class="tw" cx="925.1" cy="464.1" r="1.1" fill="#F8FAFC" opacity="0.81" style="animation-duration:4.34s;animation-delay:-4.67s"/>
+<circle class="tw" cx="933.3" cy="368.8" r="0.8" fill="#C7D2FE" opacity="0.74" style="animation-duration:3.81s;animation-delay:-2.87s"/>
+<circle class="tw" cx="324.4" cy="347.6" r="1.6" fill="#C7D2FE" opacity="0.47" style="animation-duration:6.08s;animation-delay:-2.98s"/>
+<circle class="tw" cx="817.4" cy="235.9" r="1.3" fill="#F8FAFC" opacity="0.34" style="animation-duration:3.64s;animation-delay:-4.7s"/>
+<circle class="tw" cx="108.9" cy="129.9" r="0.6" fill="#FBCFE8" opacity="0.48" style="animation-duration:2.49s;animation-delay:-3.72s"/>
+<circle class="tw" cx="532.0" cy="53.2" r="0.7" fill="#F8FAFC" opacity="0.88" style="animation-duration:4.55s;animation-delay:-3.42s"/>
+<circle class="tw" cx="913.6" cy="339.5" r="1.6" fill="#C7D2FE" opacity="0.9" style="animation-duration:5.54s;animation-delay:-4.11s"/>
+<circle class="tw" cx="693.0" cy="457.5" r="1.6" fill="#F8FAFC" opacity="0.8" style="animation-duration:3.01s;animation-delay:-3.77s"/>
+<circle class="tw" cx="783.3" cy="373.3" r="0.6" fill="#BFDBFE" opacity="0.67" style="animation-duration:4.92s;animation-delay:-3.14s"/>
+<circle class="tw" cx="611.5" cy="517.9" r="0.6" fill="#BFDBFE" opacity="0.77" style="animation-duration:3.47s;animation-delay:-0.96s"/>
+<circle class="tw" cx="122.5" cy="224.7" r="0.7" fill="#F8FAFC" opacity="0.49" style="animation-duration:4.64s;animation-delay:-0.61s"/>
+<circle class="tw" cx="920.1" cy="235.6" r="0.6" fill="#C7D2FE" opacity="0.78" style="animation-duration:2.45s;animation-delay:-4.44s"/>
+<circle class="tw" cx="162.9" cy="187.8" r="0.8" fill="#C7D2FE" opacity="0.62" style="animation-duration:4.95s;animation-delay:-1.75s"/>
+<circle class="tw" cx="174.6" cy="38.5" r="0.7" fill="#F8FAFC" opacity="0.27" style="animation-duration:2.69s;animation-delay:-4.72s"/>
+<circle class="tw" cx="320.7" cy="37.7" r="0.7" fill="#FBCFE8" opacity="0.8" style="animation-duration:3.72s;animation-delay:-0.2s"/>
+<circle class="tw" cx="311.7" cy="462.2" r="0.8" fill="#FBCFE8" opacity="0.88" style="animation-duration:5.04s;animation-delay:-1.78s"/>
+<circle class="tw" cx="563.8" cy="155.1" r="1.6" fill="#F8FAFC" opacity="0.33" style="animation-duration:2.53s;animation-delay:-1.33s"/></g>
+
+<text x="500" y="34" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="11" letter-spacing="5" fill="#8B94A8">SYSTEM MAP &#183; PLANNED ARCHITECTURE</text>
+
+<g class="hz">
+  <rect x="400.0" y="47.0" width="210" height="54" rx="13" fill="#A78BFA" opacity="0.10"/>
+  <rect x="395.0" y="41.0" width="210" height="54" rx="13" fill="#070B18" fill-opacity="0.9" stroke="#A78BFA" stroke-opacity="0.65" stroke-width="1.4"/>
+  <rect x="395.0" y="41.0" width="4" height="54" rx="2" fill="#A78BFA"/>
+  <text x="500" y="58" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="9.5" letter-spacing="2.4" fill="#A78BFA">AI / ML LAYER</text>
+  <text x="500" y="78" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="14.5" fill="#F8FAFC">Python</text>
+  <text x="500" y="96" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="10" fill="#8B94A8">models &#183; inference</text>
+</g>
+
+<g><path d="M500 96 C500 150 500 160 500 206" fill="none" stroke="#A78BFA" stroke-opacity="0.38" stroke-width="1.8"/>
+<circle class="p" r="3.2" fill="#A78BFA" filter="url(#hg)" style="offset-path:path('M500 96 C500 150 500 160 500 206');animation-delay:-0.00s"/>
+<circle class="p" r="3.2" fill="#A78BFA" filter="url(#hg)" style="offset-path:path('M500 96 C500 150 500 160 500 206');animation-delay:-2.00s"/>
+<path d="M186 400 C186 320 300 300 448 292" fill="none" stroke="#38BDF8" stroke-opacity="0.38" stroke-width="1.8"/>
+<circle class="p" r="3.2" fill="#38BDF8" filter="url(#hg)" style="offset-path:path('M186 400 C186 320 300 300 448 292');animation-delay:-0.50s"/>
+<circle class="p" r="3.2" fill="#38BDF8" filter="url(#hg)" style="offset-path:path('M186 400 C186 320 300 300 448 292');animation-delay:-2.50s"/>
+<path d="M814 400 C814 320 700 300 552 292" fill="none" stroke="#34D399" stroke-opacity="0.38" stroke-width="1.8"/>
+<circle class="p" r="3.2" fill="#34D399" filter="url(#hg)" style="offset-path:path('M814 400 C814 320 700 300 552 292');animation-delay:-1.00s"/>
+<circle class="p" r="3.2" fill="#34D399" filter="url(#hg)" style="offset-path:path('M814 400 C814 320 700 300 552 292');animation-delay:-3.00s"/>
+<path d="M500 330 C500 380 500 400 500 452" fill="none" stroke="#FBBF24" stroke-opacity="0.38" stroke-width="1.8"/>
+<circle class="p" r="3.2" fill="#FBBF24" filter="url(#hg)" style="offset-path:path('M500 330 C500 380 500 400 500 452');animation-delay:-1.50s"/>
+<circle class="p" r="3.2" fill="#FBBF24" filter="url(#hg)" style="offset-path:path('M500 330 C500 380 500 400 500 452');animation-delay:-3.50s"/></g>
+
+<ellipse class="ar" cx="500" cy="268" rx="112" ry="40" fill="none" stroke="#22D3EE" stroke-opacity="0.4" stroke-width="1.6"/>
+<ellipse class="ar2" cx="500" cy="268" rx="94" ry="94" fill="none" stroke="#EC4899" stroke-opacity="0.22" stroke-dasharray="2 10"/>
+<circle cx="500" cy="268" r="62" fill="url(#acore)" filter="url(#hg)"/>
+<ellipse cx="481" cy="246" rx="19" ry="11" fill="#FFFFFF" opacity="0.28" transform="rotate(-28 481 246)"/>
+<text x="500" y="262" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="1.6" fill="#150A2E">ULTRA</text>
+<text x="500" y="280" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="1.6" fill="#150A2E">MATRIX</text>
+
+<g class="hz">
+  <rect x="73.0" y="406.0" width="236" height="60" rx="13" fill="#38BDF8" opacity="0.10"/>
+  <rect x="68.0" y="400.0" width="236" height="60" rx="13" fill="#070B18" fill-opacity="0.9" stroke="#38BDF8" stroke-opacity="0.65" stroke-width="1.4"/>
+  <rect x="68.0" y="400.0" width="4" height="60" rx="2" fill="#38BDF8"/>
+  <text x="186" y="420" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="9.5" letter-spacing="2.4" fill="#38BDF8">FRONTEND LAYER</text>
+  <text x="186" y="440" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="14.5" fill="#F8FAFC">React &#183; Next.js</text>
+  <text x="186" y="458" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="10" fill="#8B94A8">Tailwind CSS interface</text>
+</g>
+<g class="hz">
+  <rect x="701.0" y="406.0" width="236" height="60" rx="13" fill="#34D399" opacity="0.10"/>
+  <rect x="696.0" y="400.0" width="236" height="60" rx="13" fill="#070B18" fill-opacity="0.9" stroke="#34D399" stroke-opacity="0.65" stroke-width="1.4"/>
+  <rect x="696.0" y="400.0" width="4" height="60" rx="2" fill="#34D399"/>
+  <text x="814" y="420" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="9.5" letter-spacing="2.4" fill="#34D399">BACKEND LAYER</text>
+  <text x="814" y="440" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="14.5" fill="#F8FAFC">Node.js &#183; Express</text>
+  <text x="814" y="458" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="10" fill="#8B94A8">APIs &#183; orchestration</text>
+</g>
+<g class="hz">
+  <rect x="375.0" y="462.0" width="260" height="52" rx="13" fill="#FBBF24" opacity="0.10"/>
+  <rect x="370.0" y="456.0" width="260" height="52" rx="13" fill="#070B18" fill-opacity="0.9" stroke="#FBBF24" stroke-opacity="0.65" stroke-width="1.4"/>
+  <rect x="370.0" y="456.0" width="4" height="52" rx="2" fill="#FBBF24"/>
+  <text x="500" y="472" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="9.5" letter-spacing="2.4" fill="#FBBF24">SHARED LANGUAGE</text>
+  <text x="500" y="492" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="14.5" fill="#F8FAFC">TypeScript</text>
+  <text x="500" y="510" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="10" fill="#8B94A8">across application code</text>
+</g>
+
+<text x="500" y="550" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, monospace" font-size="10" letter-spacing="2" fill="#8B94A8">colour encodes layer &#183; violet AI/ML &#183; blue frontend &#183; green backend &#183; amber shared</text>
+
+</svg>
